@@ -12,12 +12,12 @@ The code is built based on the [Differential Gaussian Rasterization with Camera 
 * Conda (recommended for easy setup)
 * CUDA Toolkit 11.8
 #### Clone the Repository
-```shell
+```bash
 git clone https://github.com/JohannaXie/diff-gaussian-rasterization-gaussmi.git --recursive
 cd diff-gaussian-rasterization-gaussmi
 ```
 #### Install
-```shell
+```bash
 conda activate GauSS-MI   # or your conda environment
 pip install .
 ```
